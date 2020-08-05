@@ -1,0 +1,3 @@
+*.json
+!config.json
+!configs/TestService.json
