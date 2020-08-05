@@ -2,7 +2,9 @@ Service Monitor Plus
 ====================
 *Service Monitor Plus (SMP)* is a PowerShell project created to keep watch over services on remote computers. When a service is stopped, it will attempt to restart it, and send email reports according to your configuration. It was created because following a reboot, there are a ton of servers in our network that don’t restart their services, even if they are *supposed* to be automatic. Rather than actually fix the issues, we opted to work around them instead
 
-The scripts can be found in our Github repo LINK or on the scripting drive at Z:\\SMP. The project provides two different scripts:
+The scripts can be found in our Github repo_ or on the scripting drive at Z:\\SMP. The project provides two different scripts:
+
+.. _repo: https://github.com/ksptechnology/PowerShell-Scripting/tree/master/SMP
 
   **Config-Browser.ps1** provides a simple GUI for managing config files. By default, the files are stored in the config directory relative to the scripts’ location. This should be sufficient 95% of the time, but the location can be changed by modifying the *config.json* file
 
