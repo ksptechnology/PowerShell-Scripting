@@ -1,3 +1,8 @@
+param(
+    [Parameter(Mandatory = $False)]
+    [switch]$Test
+)
+
 Function Die([string]$Message)
 {
     Write-Error "[ERROR]: $Message"
@@ -64,17 +69,20 @@ Function Kill-Processes()
     $Processes = @()
     ForEach($ProcessName in $Props.ProcessNames) { $Processes += (Get-Process | ? { $_.ProcessName -eq $ProcessName }) }
 
-    If($Processes)                               { $Processes | Stop-Process -WhatIf }
+    If($Processes)                               { $Processes | Stop-Process -Force -WhatIf:$Test }
     Else                                         { Write-Host "No running processes to kill" }
 }
 
 Function Close-OpenFiles()
 {
+    $Payload = { Get-SmbOpenFile | ? { $_.Path -Like "$($using:Props.FolderPath)\*" } | Close-SmbOpenFile -Confirm:$False -WhatIf:$using:Test }
     If($Creds)
     {
-        Invoke-Command -ComputerName $Props.FileServer -Credential $Creds { Get-SmbOpenFile | ? { $_.Path -Like "$($using:Props.FolderPath)\*" } | Close-SmbOpenFile -WhatIf }
+        
+        Write-Host "Payload is $Payload"
+        Invoke-Command -ComputerName $Props.FileServer -Credential $Creds -ScriptBlock $Payload
     }
-    else {
-        Invoke-Command -ComputerName $Props.FileServer { Get-SmbOpenFile | ? { $_.Path -Like "$($using:Props.FolderPath)\*" } | Close-SmbOpenFile -WhatIf }
+    Else {
+        Invoke-Command -ComputerName $Props.FileServer -ScriptBlock $Payload
     }
 }

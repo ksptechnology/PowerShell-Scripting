@@ -4,7 +4,7 @@ param(
     $UserName
 )
 
-. .\src\Functions.ps1
+. $PSScriptRoot\Functions.ps1
 
 $Creds = Check-Creds
 $Props = Parse-Props
@@ -15,3 +15,4 @@ Write-Host "Closing open files..."
 Close-OpenFiles
 
 Write-Host "Fixed!"
+Read-Host -Prompt "Press 'Enter' to continue..."

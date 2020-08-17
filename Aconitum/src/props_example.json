@@ -1,7 +1,7 @@
 {
     "ProcessNames": [
-        "lw.exe",
-        "lwrms.exe"
+        "lw",
+        "lwrms"
     ],
     "FileServer": "MY-FS01",
     "FolderPath": "C:\\lone wolf"
