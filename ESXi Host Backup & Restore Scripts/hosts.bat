@@ -1,7 +1,6 @@
 :: USER VARIABLES ::
 set old_password=not-real-password
 set new_password=not-real-password
-set rca_password=not-real-password
 set jgl_password=not-real-password
 
 :: SET WORKING DIRECTORY ::
@@ -50,10 +49,10 @@ call backupesxi 204.11.51.82 %old_password%
 call backupesxi 10.10.146.7 %old_password%
 
 :: S3 Enterprises Swift Current ::
-call backupesxi_new_pw 10.10.100.41
-call backupesxi_new_pw 10.10.100.43
-call backupesxi_new_pw 10.10.100.45
-call backupesxi_new_pw 10.10.100.47
+call backupesxi 10.10.100.41 %new_password%
+call backupesxi 10.10.100.43 %new_password%
+call backupesxi 10.10.100.45 %new_password%
+call backupesxi 10.10.100.47 %new_password%
 
 :: Motor Safety ::
 call backupesxi 10.10.6.7 %old_password%
@@ -83,11 +82,7 @@ call backupesxi 10.10.165.7 %old_password%
 :: MWC ::
 call backupesxi 10.10.118.7 %old_password%
 
-:: RCA ::
-call backupesxi 192.168.200.7 %rca_password%
-
 :: JGL Boharm ::
-:: 10.20.4.11-13 but needs a different password
 call backupesxi 10.20.4.11 %jgl_password%
 call backupesxi 10.20.4.12 %jgl_password%
 call backupesxi 10.20.4.13 %jgl_password%
