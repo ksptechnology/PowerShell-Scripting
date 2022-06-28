@@ -74,7 +74,7 @@ call backupesxi 10.10.63.250 %old_password%
 call backupesxi 10.10.80.7 %old_password%
 
 :: Estevan Medical Center ::
-call backupesxi 10.10.98.7 %old_password%
+call backupesxi 10.10.98.7 %new_password%
 
 :: Garratt Industries ::
 call backupesxi 10.10.165.7 %old_password%
