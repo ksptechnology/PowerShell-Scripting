@@ -1,0 +1,13 @@
+#TYPE Selected.System.Management.Automation.PSCustomObject
+"DisplayName","smtp","email_addresses"
+"365 Veeam","SMTP:365veeam@willowsk.onmicrosoft.com","365veeam@willowsk.onmicrosoft.com"
+"Kevin Pare","SMTP:admin@willowsk.onmicrosoft.com","admin@willowsk.onmicrosoft.com"
+"Jason Bucknell","smtp:jbucknell@willowsk.onmicrosoft.com","jbucknell@willowsk.onmicrosoft.com"
+"KSP 365 Admin","SMTP:ksp365admin@willowsk.onmicrosoft.com","ksp365admin@willowsk.onmicrosoft.com"
+"KSP 365 Admin 2","SMTP:kspadmin365@willowsk.onmicrosoft.com","kspadmin365@willowsk.onmicrosoft.com"
+"Rose Freeman","smtp:rosefreeman@willowsk.onmicrosoft.com","rosefreeman@willowsk.onmicrosoft.com"
+"Scott Freeman","smtp:scottfreeman@willowsk.onmicrosoft.com","scottfreeman@willowsk.onmicrosoft.com"
+"Tanisha Toth","smtp:ttoth@willowsk.onmicrosoft.com","ttoth@willowsk.onmicrosoft.com"
+"Moira Harder","smtp:willowgeneral@willowsk.onmicrosoft.com","willowgeneral@willowsk.onmicrosoft.com"
+"Willow Ibiz","smtp:willowibiz@willowsk.onmicrosoft.com","willowibiz@willowsk.onmicrosoft.com"
+"Willow Scanner","smtp:willowscanner@willowsk.onmicrosoft.com","willowscanner@willowsk.onmicrosoft.com"

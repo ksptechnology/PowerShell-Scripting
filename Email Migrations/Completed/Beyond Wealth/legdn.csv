@@ -1,0 +1,15 @@
+#TYPE Selected.System.Management.Automation.PSCustomObject,
+SamAccountName,legacyExchangeDN
+adueck,/o=KSP Hosting/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=Angie Dueck0de
+atoews,/o=KSP Hosting/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=Abe Toewsb38
+bwscanner,/o=KSP Hosting/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=Beyond Wealth Scannerbe9
+cbushell,/o=KSP Hosting/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=Connie Bushell5c8
+dlazeski,/o=KSP Hosting/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=Dianne Lazeski8f1
+lancedueck,/o=KSP Hosting/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=Lance Dueckbdd
+lbultitude,/o=KSP Hosting/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=Lorne Bultitudecf1
+ldueck,/o=KSP Hosting/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=Leander Dueck7c4
+mlostebrown,/o=KSP Hosting/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=user18614c27
+mstilborn,/o=KSP Hosting/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=Mel Stilbornca3
+rbabchuk,/o=KSP Hosting/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=Rob Babchukb6e
+sierrabushell,/o=KSP Hosting/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=Sierra Bushell - New51a
+vkomarnicki,/o=KSP Hosting/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=Vanessa Komarnicki225

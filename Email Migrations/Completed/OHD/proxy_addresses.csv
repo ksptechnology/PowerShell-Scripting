@@ -1,0 +1,11 @@
+#TYPE Selected.System.Management.Automation.PSCustomObject
+"SamAccountName","proxyAddresses"
+"bcarr","smtp:warren@odcs.ca smtp:brian@doorstore.ca SMTP:brian@odcs.ca smtp:Brian@ksphosting.com X400:C=US;A= ;P=KSP Hosting;O=KSP?CORPORATE;S=Carr;G=Brian;"
+"cbrunskill","smtp:carmen@odcs.ca smtp:carmen@doorstore.ca smtp:Carmen@ksphosting.com SMTP:carmen@thebrunskills.ca X400:C=US;A= ;P=KSP Hosting;O=KSP?CORPORATE;S=Brunskills;G=Scott ? Carmen;"
+"gbrunskill","SMTP:glen@odcs.ca smtp:glen@doorstore.ca smtp:Glen@ksphosting.com X400:C=US;A= ;P=KSP Hosting;O=KSP?CORPORATE;S=Brunskill;G=Glen;"
+"mhachey","SMTP:mike@odcs.ca smtp:mhachey@ksphosting.com X400:C=US;A= ;P=KSP Hosting;O=KSP?CORPORATE;S=Hachey;G=Mike;"
+"odcsarchive","SMTP:dispatch.archive@odcs.ca"
+"odcscommunications","SMTP:communications@odcs.ca smtp:OverDoor@odcs.ca"
+"odcsdispatch","smtp:sales@odcs.ca smtp:danielle@odcs.ca smtp:kelly@odcs.ca smtp:service@odcs.ca SMTP:dispatch@odcs.ca"
+"rnelson","smtp:cfs@odcs.ca smtp:purchasing@odcs.ca smtp:payables@odcs.ca smtp:reg@doorstore.ca SMTP:reg@odcs.ca smtp:odcwest@odcs.ca smtp:Reg@ksphosting.com X400:C=US;A= ;P=KSP Hosting;O=KSP?CORPORATE;S=Nelson;G=Reg;"
+"sbrunskill","smtp:valerie@odcs.ca smtp:Jenny@doorstore.ca smtp:jenny@odcs.ca smtp:kristy@doorstore.ca smtp:steve@odcs.ca smtp:orders@odcs.ca smtp:scott@thebrunskills.ca smtp:ohdirect@odcs.ca smtp:john@odcs.ca smtp:info@doorstore.ca smtp:facebook@doorstore.ca smtp:corporate@odcs.ca smtp:corporate@doorstore.ca smtp:continuingeducation@odcs.ca smtp:careers@odcs.ca smtp:scott@doorstore.ca SMTP:scott@odcs.ca smtp:scott@ksphosting.com X400:C=US;A= ;P=KSP Hosting;O=KSP?CORPORATE;S=Brunskill;G=Scott;"

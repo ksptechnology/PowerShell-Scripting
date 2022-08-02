@@ -1,0 +1,10 @@
+#TYPE Selected.System.Management.Automation.PSCustomObject,,
+DisplayName,smtp,email_addresses
+CIF Sask,SMTP:admin@cifsask.onmicrosoft.com,admin@cifsask.onmicrosoft.com
+Angie Sawatzky,smtp:asawatzky@cifsask.onmicrosoft.com,asawatzky@cifsask.onmicrosoft.com
+Angela Tremka,smtp:atremka@cifsask.onmicrosoft.com,atremka@cifsask.onmicrosoft.com
+CIF Scanner,smtp:cifscanner@cifsask.onmicrosoft.com,cifscanner@cifsask.onmicrosoft.com
+KSP 365 Admin 2,SMTP:kspadmin365@cifsask.onmicrosoft.com,kspadmin365@cifsask.onmicrosoft.com
+Rhonda Newton,smtp:rnewton@cifsask.onmicrosoft.com,rnewton@cifsask.onmicrosoft.com
+CIF Sask Wellbeing,smtp:cifsaskwellbeing@cifsask.onmicrosoft.com,cifsaskwellbeing@cifsask.onmicrosoft.com
+Tracey Mann,smtp:tmann@cifsask.onmicrosoft.com,tmann@cifsask.onmicrosoft.com

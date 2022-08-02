@@ -1,0 +1,7 @@
+#TYPE Selected.System.Management.Automation.PSCustomObject,
+email_addresses,samaccountname
+aknight@knightvisionsk.onmicrosoft.com,aknight
+cparenteau@knightvisionsk.onmicrosoft.com,cparenteau
+dmiller@knightvisionsk.onmicrosoft.com,dmiller
+jknight@knightvisionsk.onmicrosoft.com,jknight
+kvscanner@knightvisionsk.onmicrosoft.com,kvscanner

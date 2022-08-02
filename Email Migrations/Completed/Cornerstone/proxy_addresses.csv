@@ -1,0 +1,57 @@
+#TYPE Selected.System.Management.Automation.PSCustomObject,
+SamAccountName,proxyAddresses
+akezar,SMTP:Alyssa@csinsure.ca smtp:AKezar@cornerstoneinsurance.ca smtp:akezar@swiftins.ca smtp:ahabetler@cornerstoneinsurance.ca X400:C=US;A= ;P=KSP Hosting;O=KSP?CORPORATE;S=Kezar;G=Alyssa;
+athomson,SMTP:Adam@csinsure.ca smtp:AThomson@cornerstoneinsurance.ca smtp:athomson@swiftins.ca
+belliot,SMTP:Brett@csinsure.ca smtp:BElliot@cornerstoneinsurance.ca smtp:belliot@swiftins.ca
+blongworth,SMTP:Brock@csinsure.ca smtp:BLongworth@cornerstoneinsurance.ca smtp:blongworth@swiftins.ca X400:C=US;A= ;P=KSP Hosting;O=KSP?CORPORATE;S=Longworth;G=Brock;
+bpage,SMTP:Brooklyn@csinsure.ca smtp:BPage@cornerstoneinsurance.ca smtp:bpage@swiftins.ca
+bprovencher,SMTP:Breanna@csinsure.ca smtp:BProvencher@cornerstoneinsurance.ca smtp:BProvencher@swiftins.ca
+builtontrust,SMTP:hello@csinsure.ca smtp:builtontrust@cornerstoneinsurance.ca smtp:hello@swiftins.ca smtp:CBuiltontrust@cornerstoneinsurance.ca smtp:CBuiltontrust@ksphosting.com
+bwiebe,SMTP:Beth@csinsure.ca smtp:BWiebe@cornerstoneinsurance.ca smtp:DawnHeebner@swiftins.ca smtp:DawnHeebner@cornerstoneinsurance.ca smtp:DHeebner2@cornerstoneinsurance.ca smtp:akuchirka@swiftins.ca smtp:bwiebe@swiftins.ca X400:C=US;A= ;P=KSP Hosting;O=KSP?CORPORATE;S=Wiebe;G=Beth;
+colson,SMTP:Candace@csinsure.ca smtp:COlson@cornerstoneinsurance.ca smtp:colson@swiftins.ca
+cornerstoneaccountin,SMTP:accounting@csinsure.ca
+cornerstonecl,SMTP:cl@csinsure.ca smtp:CL@cornerstoneinsurance.ca smtp:cl@swiftins.ca smtp:CCL@cornerstoneinsurance.ca
+cornerstonedata,SMTP:data@csinsure.ca smtp:data@cornerstoneinsurance.ca smtp:data@swiftins.ca smtp:CData@cornerstoneinsurance.ca
+cornerstonemail,SMTP:mail@csinsure.ca smtp:Mail@cornerstoneinsurance.ca
+cornerstoneops,SMTP:ops@csinsure.ca
+cornerstonepayments,SMTP:payments@csinsure.ca smtp:Payments@cornerstoneinsurance.ca smtp:Payments@swiftins.ca
+cornerstonepl,SMTP:pl@csinsure.ca smtp:PL@cornerstoneinsurance.ca smtp:MHolz@cornerstoneinsurance.ca smtp:landersone@cornerstoneinsurance.ca smtp:landerson@swiftins.ca smtp:JLevesque@cornerstoneinsurance.ca smtp:JLevesque@swiftins.ca smtp:dheebner@cornerstoneinsurance.ca smtp:darienheebner@cornerstoneinsurance.ca smtp:darienheebner@swiftins.ca smtp:cjensen@swiftins.ca smtp:kcapay@swiftins.ca smtp:PL@swiftins.ca smtp:KCapay@cornerstoneinsurance.ca smtp:CPL@cornerstoneinsurance.ca
+cornerstonesaf,SMTP:saf@csinsure.ca smtp:SAF@cornerstoneinsurance.ca smtp:CSAF@cornerstoneinsurance.ca
+cornerstonescanner,SMTP:scanner@csinsure.ca smtp:cornerstonescanner@cornerstoneinsurance.ca
+cornerstonesgipmt,SMTP:sgipmt@csinsure.ca smtp:sgipmt@cornerstoneinsurance.ca
+cpage,SMTP:cailin@csinsure.ca smtp:CPage@cornerstoneinsurance.ca
+cpaulhus,SMTP:Colin@csinsure.ca smtp:cpaulhus@cornerstoneinsurance.ca smtp:cpaulhus@cornerstoneinsurancesk.onmicrosoft.com
+cruthven,SMTP:Crystal@csinsure.ca smtp:CRuthven@cornerstoneinsurance.ca smtp:cruthven@swiftins.ca X400:C=US;A= ;P=KSP Hosting;O=KSP?CORPORATE;S=Ruthven;G=Crystal;
+dawnheebner,SMTP:dawn.h@csinsure.ca smtp:Dawn@cornerstoneinsurance.ca
+derickson,SMTP:Doug@csinsure.ca smtp:DErickson@cornerstoneinsurance.ca
+dheal,SMTP:Debbie@csinsure.ca smtp:DHeal@cornerstoneinsurance.ca smtp:dheal@swiftins.ca X400:C=US;A= ;P=KSP Hosting;O=KSP?CORPORATE;S=Heal;G=Deborah;
+dvandamme,SMTP:Danielle@csinsure.ca smtp:DVanDamme@cornerstoneinsurance.ca smtp:DVanDamme@swiftins.ca
+dwerezak,SMTP:Dawn@csinsure.ca smtp:DWerezak@cornerstoneinsurance.ca smtp:dwerezak@swiftins.ca X400:C=US;A= ;P=KSP Hosting;O=KSP?CORPORATE;S=Werezak;G=Dawn;
+fhuxted,SMTP:Farren@csinsure.ca smtp:FHuxted@cornerstoneinsurance.ca smtp:fhuxted@swiftins.ca
+hrolfes,SMTP:Heather@csinsure.ca smtp:HRolfes@cornerstoneinsurance.ca smtp:hrolfes@swiftins.ca X400:C=US;A= ;P=KSP Hosting;O=KSP?CORPORATE;S=Rolfes;G=Heather;
+jbudan,SMTP:Jana@csinsure.ca smtp:JBudan@cornerstoneinsurance.ca smtp:jbudan@swiftins.ca X400:C=US;A= ;P=KSP Hosting;O=KSP?CORPORATE;S=Budan;G=Jana;
+jcharles,SMTP:Jacquelyn@csinsure.ca smtp:JCharles@cornerstoneinsurance.ca
+jdurand,SMTP:Jennifer@csinsure.ca smtp:JDurand@cornerstoneinsurance.ca smtp:jdurand@swiftins.ca X400:C=US;A= ;P=KSP Hosting;O=KSP?CORPORATE;S=Durand;G=Jennifer;
+jhenderson,SMTP:Jenna@csinsure.ca smtp:JHenderson@cornerstoneinsurance.ca smtp:jhenderson@swiftins.ca X400:C=US;A= ;P=KSP Hosting;O=KSP?CORPORATE;S=Henderson;G=Jenna;
+JHewitt,SMTP:Jacie@csinsure.ca smtp:JHewitt@cornerstoneinsurance.ca
+jhowe,SMTP:Joanne@csinsure.ca smtp:JHowe@cornerstoneinsurance.ca smtp:JHowe@swiftins.ca X400:C=US;A= ;P=KSP Hosting;O=KSP?CORPORATE;S=Howe;G=Joanne;
+jneale,SMTP:Joy@csinsure.ca smtp:JNeale@cornerstoneinsurance.ca smtp:JNeale@swiftins.ca X400:C=US;A= ;P=KSP Hosting;O=KSP?CORPORATE;S=Neale;G=Joy;
+jpaskaruk,SMTP:Jaden@csinsure.ca smtp:JPaskaruk@cornerstoneinsurance.ca
+kcrosland,SMTP:Kalyn@csinsure.ca smtp:KCrosland@cornerstoneinsurance.ca smtp:kcrosland@swiftins.ca X400:C=US;A= ;P=KSP Hosting;O=KSP?CORPORATE;S=Crosland;G=Kalyn;
+lbicknell,SMTP:Logan@csinsure.ca smtp:LBicknell@cornerstoneinsurance.ca
+lhalcro,SMTP:Lacey@csinsure.ca smtp:LHalcro@cornerstoneinsurance.ca smtp:LHalcro@swiftins.ca
+lwilkinson,SMTP:Lisa@csinsure.ca smtp:LWilkinson@cornerstoneinsurance.ca smtp:lwilkinson@swiftins.ca X400:C=US;A= ;P=KSP Hosting;O=KSP?CORPORATE;S=Wilkinson;G=Lisa;
+mloyns,SMTP:Megan@csinsure.ca smtp:MLoyns@cornerstoneinsurance.ca smtp:adunn@cornerstoneinsurance.ca X400:C=US;A= ;P=KSP Hosting;O=KSP?CORPORATE;S=Loyns;G=Megan;
+ngareau,SMTP:Noah@csinsure.ca smtp:NGareau@cornerstoneinsurance.ca
+nschnitzler,SMTP:Naomi@csinsure.ca smtp:NSchnitzler@cornerstoneinsurance.ca smtp:NSchnitzler@swiftins.ca
+plongworth,SMTP:Pat@csinsure.ca smtp:PLongworth@cornerstoneinsurance.ca
+rkennedy,SMTP:Ryan@csinsure.ca smtp:RKennedy@cornerstoneinsurance.ca smtp:rkennedy@swiftins.ca X400:C=US;A= ;P=KSP Hosting;O=KSP?CORPORATE;S=Kennedy;G=Ryan;
+rskulmoski,SMTP:Ryan.Sk@csinsure.ca smtp:RSkulmoski@cornerstoneinsurance.ca smtp:RSkulmoski@swiftins.ca
+rsokulski,SMTP:Ryan.S@csinsure.ca smtp:RSokulski@cornerstoneinsurance.ca smtp:rsokulski@swiftins.ca
+scampbell,SMTP:Shayna@csinsure.ca smtp:SCampbell@cornerstoneinsurance.ca smtp:scampbell@swiftins.ca X400:C=US;A= ;P=KSP Hosting;O=KSP?CORPORATE;S=Campbell;G=Shayna;
+skalika,SMTP:Shantel@csinsure.ca smtp:SKalika@cornerstoneinsurance.ca smtp:skalika@swiftins.ca X400:C=US;A= ;P=KSP Hosting;O=KSP?CORPORATE;S=Kalika;G=Shantel;
+sstadnek,SMTP:Spencer@csinsure.ca smtp:SStadnek@cornerstoneinsurance.ca smtp:sstadnek@ksphosting.com X400:C=US;A= ;P=KSP Hosting;O=KSP?CORPORATE;S=Stadnek;G=Spencer;
+tlongworth,SMTP:Tim@csinsure.ca smtp:TLongworth@cornerstoneinsurance.ca smtp:tlongworth@ksphosting.com X400:C=US;A= ;P=KSP Hosting;O=KSP?CORPORATE;S=Longworth;G=Tim;
+tuhlik,SMTP:Teigan@csinsure.ca smtp:TUhlik@cornerstoneinsurance.ca smtp:tuhlik@swiftins.ca
+wsarchuk,SMTP:Will@csinsure.ca smtp:WSarchuk@cornerstoneinsurance.ca smtp:WSarchuk@swiftins.ca
+yjones,SMTP:Yvonne@csinsure.ca smtp:YJones@cornerstoneinsurance.ca smtp:yjones@swiftins.ca X400:C=US;A= ;P=KSP Hosting;O=KSP?CORPORATE;S=Jones;G=Yvonne;

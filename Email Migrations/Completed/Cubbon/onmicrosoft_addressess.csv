@@ -1,0 +1,12 @@
+#TYPE Selected.System.Management.Automation.PSCustomObject
+"DisplayName","smtp","email_addresses"
+"Brook Arnold","SMTP:barnold@cubbonadvertising.onmicrosoft.com","barnold@cubbonadvertising.onmicrosoft.com"
+"Brad Fekula","SMTP:bfekula@cubbonadvertising.onmicrosoft.com","bfekula@cubbonadvertising.onmicrosoft.com"
+"Cory Rondeau","SMTP:crondeau@cubbonadvertising.onmicrosoft.com","crondeau@cubbonadvertising.onmicrosoft.com"
+"Kylee Cyca","SMTP:kcyca@cubbonadvertising.onmicrosoft.com","kcyca@cubbonadvertising.onmicrosoft.com"
+"Leasa Best","SMTP:lbest@cubbonadvertising.onmicrosoft.com","lbest@cubbonadvertising.onmicrosoft.com"
+"Lorri Cyca","SMTP:lcyca@cubbonadvertising.onmicrosoft.com","lcyca@cubbonadvertising.onmicrosoft.com"
+"Mavis Whyte","SMTP:mwhyte@cubbonadvertising.onmicrosoft.com","mwhyte@cubbonadvertising.onmicrosoft.com"
+"Rob Dedman","smtp:r.dedman@cubbonadvertising.onmicrosoft.com","r.dedman@cubbonadvertising.onmicrosoft.com"
+"Scott Albert","SMTP:salbert@cubbonadvertising.onmicrosoft.com","salbert@cubbonadvertising.onmicrosoft.com"
+"Shelly Cantin","SMTP:scantin@cubbonadvertising.onmicrosoft.com","scantin@cubbonadvertising.onmicrosoft.com"

@@ -1,0 +1,17 @@
+#TYPE Selected.System.Management.Automation.PSCustomObject
+"SamAccountName","proxyAddresses"
+"771staffcalendar","SMTP:771Staff@local771.ca"
+"cdaniels",
+"cgust","SMTP:chris@local771.ca smtp:cgust@ksphosting.com X400:C=US;A= ;P=KSP Hosting;O=KSP?CORPORATE;S=Gust;G=Chris;"
+"dmadsen","SMTP:Daniel@local771.ca"
+"jhaasen","SMTP:jhaasen@local771.ca"
+"jhay","smtp:jhay@local771.ca SMTP:Jeff@local771.ca X400:C=US;A= ;P=KSP Hosting;O=KSP?CORPORATE;S=hay;G=Jeff;"
+"kzimmerman","smtp:kzimmerman@local771.ca SMTP:Kim@local771.ca X400:C=US;A= ;P=KSP Hosting;O=KSP?CORPORATE;S=Zimmerman;G=Kim;"
+"local771info","SMTP:info@local771.ca"
+"local771scanner","SMTP:Scanner@local771.ca"
+"pgronick","smtp:pgronick@local771.ca SMTP:Paul@local771.ca X400:C=US;A= ;P=KSP Hosting;O=KSP?CORPORATE;S=Gronick;G=Paul;"
+"sokabe","smtp:sokabe@local771.ca SMTP:Shelley@local771.ca X400:C=US;A= ;P=KSP Hosting;O=KSP?CORPORATE;S=Okabe;G=Shelley;"
+"sseager","SMTP:Steve@local771.ca"
+"tlemire","SMTP:Tenille@local771.ca smtp:tlemire@local771.ca X400:C=US;A= ;P=KSP Hosting;O=KSP?CORPORATE;S=Lemire;G=Tenielle;"
+"tsears","SMTP:Terry@local771.ca"
+"wworrall","smtp:wworrall@local771.ca SMTP:Wayne@local771.ca X400:C=US;A= ;P=KSP Hosting;O=KSP?CORPORATE;S=Worrall Jr.;G=Wayne;"

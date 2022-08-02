@@ -1,0 +1,46 @@
+#TYPE Selected.System.Management.Automation.PSCustomObject,
+SamAccountName,legacyExchangeDN
+aforbes,/o=KSP Hosting/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=Amanda Forbes590
+amccrystal,/o=KSP Hosting/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=Amber McCrystalb0a
+apinsonneault,/o=KSP Hosting/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=Andre Pinsonneault153
+aschick,/o=KSP Hosting/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=Alyssa Schick066
+callen,/o=KSP Hosting/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=Carrie Allen5e6
+cerickson,/o=KSP Hosting/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=Chandra Erickson3d2
+coprice,/o=KSP Hosting/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=Corey Price55b
+dbarr,/o=KSP Hosting/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=Dalton Barrd02
+dfreeman,/o=KSP Hosting/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=Derek Freemanbd4
+dfunke,/o=KSP Hosting/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=Dallas Funkec0f
+dmclean,/o=KSP Hosting/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=Don McLeanf1f
+ebristow,/o=KSP Hosting/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=Erinn Bristowa52
+eschick,/o=KSP Hosting/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=Eric Schick772
+eyonge,/o=KSP Hosting/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=Eric Yonge0f9
+ggurney,/o=KSP Hosting/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=Greg Gurney472
+hawksaccpayable,/o=KSP Hosting/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=Hawks Accounts Payable34d
+hawkscan,/o=KSP Hosting/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=Scanner70c
+hawksdeliverytruck,/o=KSP Hosting/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=Kenworth Delivery Truckec9
+jberner,/o=KSP Hosting/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=Jeremy Bernere79
+jblain,/o=KSP Hosting/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=Jamie Blain13d
+jbritton,/o=KSP Hosting/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=Jamie Britton008
+jcochet,/o=KSP Hosting/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=Jackie Cochetf0a
+jkurz,/o=KSP Hosting/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=Jaxton Kurz34a
+jmann,/o=KSP Hosting/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=Jordan Manneb9
+jnorrish,/o=KSP Hosting/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=Jaden Norrish242
+jwarner,/o=KSP Hosting/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=Jana Warnerdf2
+jyakubowski,/o=KSP Hosting/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=Jaimen Yakubowski7e4
+klamotte,/o=KSP Hosting/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=Kylee Lamottef93
+lcasey,/o=KSP Hosting/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=Lawrence Casey5b4
+lringdal,/o=KSP Hosting/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=Lucas Ringdal23a
+mbrisebois,/o=KSP Hosting/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=Madeline Piriod11
+mpinsonneault,/o=KSP Hosting/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=Michelle Pinsonneaulta11
+nboots,/o=KSP Hosting/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=Nadia Bootsb70
+nglassford,/o=KSP Hosting/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=Nathan Glassford1f7
+pdeobald,/o=KSP Hosting/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=Phillip Deobald60e
+pgibney,/o=KSP Hosting/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=Pat Gibneyd47
+radrian,/o=KSP Hosting/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=Randy Adriandd6
+rallen,/o=KSP Hosting/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=Rick Allen0c9
+ringell,/o=KSP Hosting/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=Rhonda Ingellc9e
+rkurz,/o=KSP Hosting/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=Richie Kurz5ae
+smiller,/o=KSP Hosting/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=Sheila Millere89
+tmolsberry,/o=KSP Hosting/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=Troy Molsberry1ed
+tolynick,/o=KSP Hosting/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=Trevor Olynick6ba
+vstrieb,/o=KSP Hosting/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=Vicki Striebf26

@@ -1,0 +1,103 @@
+#TYPE Selected.System.Management.Automation.PSCustomObject,
+Name,PrimarySmtpAddress
+Cornerstone ScanningStation,CScanningStation@cornerstoneinsurance.ca
+Adam Thomson - Swift Insurance,athomson@swiftins.ca
+Monica Holz,MHolz@cornerstoneinsurance.ca
+Cornerstone Payments - Shared Mailbox,Payments@cornerstoneinsurance.ca
+Alyssa Kezar - Swift Insurance,akezar@swiftins.ca
+Cornerstone Data - Shared Mailbox,data@cornerstoneinsurance.ca
+Cornerstone SAF - Shared Mailbox,SAF@cornerstoneinsurance.ca
+Cornerstone PL - Shared Mailbox,PL@cornerstoneinsurance.ca
+Cornerstone CL - Shared Mailbox,CL@cornerstoneinsurance.ca
+Beth Wiebe - Swift Insurance,bwiebe@swiftins.ca; akuchirka@swiftins.ca
+Breanna Provencher - Swift Insurance,BProvencher@swiftins.ca
+Cornerstone SGIPMT - Shared Mailbox,sgipmt@cornerstoneinsurance.ca
+Janelle Levesque,JLevesque@cornerstoneinsurance.ca
+Brett Elliot - Swift Insurance,belliot@swiftins.ca
+Cornerstone Mail - Shared Mailbox,Mail@cornerstoneinsurance.ca
+Amy Dunn,ADunn@cornerstoneinsurance.ca
+Lukas Anderson,LAnderson@cornerstoneinsurance.ca
+Cornerstone Builtontrust - Shared Mailbox,builtontrust@cornerstoneinsurance.ca
+Alyssa Kezar,AKezar@cornerstoneinsurance.ca
+Jana Budan,JBudan@cornerstoneinsurance.ca
+Jenna Henderson,JHenderson@cornerstoneinsurance.ca
+Joy Neale,JNeale@cornerstoneinsurance.ca
+Danielle Van Damme,DVanDamme@cornerstoneinsurance.ca
+Heather Rolfes,HRolfes@cornerstoneinsurance.ca
+Joanne Howe,JHowe@cornerstoneinsurance.ca
+Lisa Wilkinson,LWilkinson@cornerstoneinsurance.ca
+Beth Wiebe,BWiebe@cornerstoneinsurance.ca
+Brock Longworth,BLongworth@cornerstoneinsurance.ca
+Crystal Ruthven,CRuthven@cornerstoneinsurance.ca
+Dawn Werezak,DWerezak@cornerstoneinsurance.ca
+Deborah Heal,DHeal@cornerstoneinsurance.ca
+Jennifer Durand,JDurand@cornerstoneinsurance.ca
+Kalyn Crosland,KCrosland@cornerstoneinsurance.ca
+Adam Thomson,AThomson@cornerstoneinsurance.ca
+Ryan Kennedy,RKennedy@cornerstoneinsurance.ca
+Shantel Kalika,SKalika@cornerstoneinsurance.ca
+Shayna Campbell,SCampbell@cornerstoneinsurance.ca
+Spencer Stadnek,SStadnek@cornerstoneinsurance.ca
+Tim Longworth,TLongworth@cornerstoneinsurance.ca
+Yvonne Jones,YJones@cornerstoneinsurance.ca
+Brooklyn Page,BPage@cornerstoneinsurance.ca
+Brett Elliot,BElliot@cornerstoneinsurance.ca
+Candace Olson,COlson@cornerstoneinsurance.ca
+Logan Bicknell,LBicknell@cornerstoneinsurance.ca
+Ryan Skulmoski,RSkulmoski@cornerstoneinsurance.ca
+Jaden Paskaruk,JPaskaruk@cornerstoneinsurance.ca
+Cailin Page,CPage@cornerstoneinsurance.ca
+Colin Paulhus,cpaulhus@cornerstoneinsurance.ca
+Jacie Hewitt,JHewitt@cornerstoneinsurance.ca
+Jacquelyn Charles,JCharles@cornerstoneinsurance.ca
+Dawn Heebner,DawnHeebner@cornerstoneinsurance.ca
+Megan Loyns,MLoyns@cornerstoneinsurance.ca
+Farren Huxted,FHuxted@cornerstoneinsurance.ca
+William Sarchuk,WSarchuk@cornerstoneinsurance.ca
+Doug Erickson,DErickson@cornerstoneinsurance.ca
+Patrick Longworth,PLongworth@cornerstoneinsurance.ca
+Breanna Provencher,BProvencher@cornerstoneinsurance.ca
+Naomi Schnitzler,NSchnitzler@cornerstoneinsurance.ca
+Noah Gareau,NGareau@cornerstoneinsurance.ca
+Lacey Halcro,LHalcro@cornerstoneinsurance.ca
+Ryan Sokulski,RSokulski@cornerstoneinsurance.ca
+Teigan Uhlik,TUhlik@cornerstoneinsurance.ca
+Brock Longworth - Swift Insurance,blongworth@swiftins.ca
+Brooklyn Page - Swift Insurance,bpage@swiftins.ca
+Candace Olson - Swift Insurance,colson@swiftins.ca
+Crystal Ruthven - Swift Insurance,cruthven@swiftins.ca
+Danielle Van Damme - Swift Insurance,DVanDamme@swiftins.ca
+Darien Heebner - Swift Insurance,DarienHeebner@swiftins.ca
+Dawn Heebner - Swift Insurance,DawnHeebner@swiftins.ca
+Dawn Werezak - Swift Insurance,dwerezak@swiftins.ca
+Deborah Heal - Swift Insurance,dheal@swiftins.ca
+Farren Huxted - Swift Insurance,fhuxted@swiftins.ca
+Heather Rolfes - Swift Insurance,hrolfes@swiftins.ca
+Hello - Swift Insurance - Shared Mailbox,hello@swiftins.ca
+Jana Budan - Swift Insurance,jbudan@swiftins.ca
+Janelle Levesque - Swift Insurance,JLevesque@swiftins.ca
+Jenna Henderson - Swift Insurance,jhenderson@swiftins.ca
+Jennifer Durand - Swift Insurance,jdurand@swiftins.ca
+Joanne Howe - Swift Insurance,JHowe@swiftins.ca
+Joy Neale - Swift Insurance,JNeale@swiftins.ca
+Kalyn Crosland - Swift Insurance,kcrosland@swiftins.ca
+Lacey Halcro - Swift Insurance,LHalcro@swiftins.ca
+Lisa Wilkinson - Swift Insurance,lwilkinson@swiftins.ca
+Lukas Anderson - Swift Insurance,landerson@swiftins.ca
+Naomi Schnitzler - Swift Insurance,NSchnitzler@swiftins.ca
+Ryan Kennedy - Swift Insurance,rkennedy@swiftins.ca
+Ryan Skulmoski - Swift Insurance,RSkulmoski@swiftins.ca
+Ryan Sokulski,rsokulski@swiftins.ca
+Shantel Kalika - Swift Insurance,skalika@swiftins.ca
+Shayna Campbell - Swift Insurance,scampbell@swiftins.ca
+Swift CL - Shared Mailbox,cl@swiftins.ca
+Swift Data - Shared Mailbox,data@swiftins.ca
+Swift Payments - Shared Mailbox,Payments@swiftins.ca
+Swift PL - Shared Mailbox,PL@swiftins.ca; kcapay@swiftins.ca 
+Teigan Uhlik - Swift Insurance,tuhlik@swiftins.ca
+William Sarchuk - Swift Insurance,WSarchuk@swiftins.ca
+Yvonne Jones - Swift Insurance,yjones@swiftins.ca
+Cornerstone Clearpay,Clearpay@cornerstoneinsurance.ca
+cornerstone scanner,cornerstonescanner@cornerstoneinsurance.ca
+Dean Cournoyer,DCournoyer@cornerstoneinsurance.ca
+Darien Heebner,DarienHeebner@cornerstoneinsurance.ca

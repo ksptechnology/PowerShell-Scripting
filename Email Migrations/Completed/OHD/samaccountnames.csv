@@ -1,0 +1,11 @@
+#TYPE Selected.System.Management.Automation.PSCustomObject,
+email_addresses,samaccountname
+bcarr@doorstoresk.onmicrosoft.com,bcarr
+cbrunskill@doorstoresk.onmicrosoft.com,cbrunskill
+gbrunskill@doorstoresk.onmicrosoft.com,gbrunskill
+mhachey@doorstoresk.onmicrosoft.com,mhachey
+odcsarchive@doorstoresk.onmicrosoft.com,odcsarchive
+odcscommunications@doorstoresk.onmicrosoft.com,odcscommunications
+odcsdispatch@doorstoresk.onmicrosoft.com,odcsdispatch
+rnelson@doorstoresk.onmicrosoft.com,rnelson
+sbrunskill@doorstoresk.onmicrosoft.com,sbrunskill

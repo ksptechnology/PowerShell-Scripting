@@ -1,0 +1,19 @@
+Name,PrimarySmtpAddress,ForwardingAddress,DeliverToMailboxAndForward
+Alyssa Kezar,AKezar@cornerstoneinsurance.ca,Cornerstone CL - Shared Mailbox,FALSE
+Brock Longworth,BLongworth@cornerstoneinsurance.ca,Beth Wiebe,TRUE
+Danielle Van Damme,DVanDamme@cornerstoneinsurance.ca,Cornerstone PL - Shared Mailbox,TRUE
+Shantel Kalika,SKalika@cornerstoneinsurance.ca,Brock Longworth,TRUE
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+cl@,,,
+PL@,,,
+bwiebe@,,,
+blongworth@,,,
+,,,
+,,,
+,,,
+,,,

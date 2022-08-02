@@ -1,0 +1,10 @@
+#TYPE Selected.System.Management.Automation.PSCustomObject
+"SamAccountName","ProxyAddresses"
+"aboyd",
+"eboyd","SMTP:ervinboyd@boydexcavating.ca X400:C=US;A= ;P=KSP Hosting;O=KSP?CORPORATE;S=Boyd;G=Ervin;"
+"lboyd","smtp:lorraine@boydexcavating.ca SMTP:lorraineboyd@boydexcavating.ca X400:C=US;A= ;P=KSP Hosting;O=KSP?CORPORATE;S=Boyd;G=Lorraine;"
+"mmacleod","SMTP:michelle@boydexcavating.ca X400:C=US;A= ;P=KSP Hosting;O=KSP?CORPORATE;S=McLeod;G=Michelle;"
+"pheintz","SMTP:peter@boydexcavating.ca X400:C=US;A= ;P=KSP Hosting;O=KSP?CORPORATE;S=Heintz;G=Peter;"
+"rarkangelo-be","SMTP:raia@boydexcavating.ca"
+"rmorrell","SMTP:roym@boydexcavating.ca X400:C=US;A= ;P=KSP Hosting;O=KSP?CORPORATE;S=Morrell;G=Roy;"
+"tboyd","smtp:shop@boydexcavating.ca SMTP:tylerboyd@boydexcavating.ca X400:C=US;A= ;P=KSP Hosting;O=KSP?CORPORATE;S=Boyd;G=Tyler;"

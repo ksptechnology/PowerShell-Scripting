@@ -1,0 +1,14 @@
+#TYPE Selected.System.Management.Automation.PSCustomObject,
+email_addresses,samaccountname
+aworm@fhqdevsk.onmicrosoft.com,aworm
+fhqfrontboardroom@fhqdevsk.onmicrosoft.com,fhqfrontboardroom
+fhqinfo@fhqdevsk.onmicrosoft.com,fhqinfo
+fhqmainboardroom@fhqdevsk.onmicrosoft.com,fhqmainboardroom
+fhqscanner@fhqdevsk.onmicrosoft.com,fhqscanner
+jkoochicum@fhqdevsk.onmicrosoft.com,jkoochicum
+jsharp@fhqdevsk.onmicrosoft.com,jsharp
+jyee@fhqdevsk.onmicrosoft.com,jyee
+mgettle@fhqdevsk.onmicrosoft.com,mgettle
+mkupusa@fhqdevsk.onmicrosoft.com,mkupusa
+mmunroe@fhqdevsk.onmicrosoft.com,mmunroe
+tbenjoe@fhqdevsk.onmicrosoft.com,tbenjoe

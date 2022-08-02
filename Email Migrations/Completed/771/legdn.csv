@@ -1,0 +1,17 @@
+#TYPE Selected.System.Management.Automation.PSCustomObject
+"SamAccountName","legacyExchangeDN"
+"771staffcalendar","/o=KSP Hosting/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=771 Staff Calendaraaf"
+"cdaniels",
+"cgust","/o=KSP Hosting/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=Chris Gust69f"
+"dmadsen","/o=KSP Hosting/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=Daniel Madsen129"
+"jhaasen","/o=KSP Hosting/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=Jonathan Haasenb7e"
+"jhay","/o=KSP Hosting/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=Jeff hay5e0"
+"kzimmerman","/o=KSP Hosting/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=Kim Zimmerman973"
+"local771info","/o=KSP Hosting/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=info local77135b"
+"local771scanner","/o=KSP Hosting/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=Scanner Local771d24"
+"pgronick","/o=KSP Hosting/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=Paul Gronick0a4"
+"sokabe","/o=KSP Hosting/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=Shelley Okabe468"
+"sseager","/o=KSP Hosting/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=Steve Seagerdb1"
+"tlemire","/o=KSP Hosting/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=Tenille Lemire0e1"
+"tsears","/o=KSP Hosting/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=Terry Sears5ba"
+"wworrall","/o=KSP Hosting/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=Wayne Worrall Jr.78f"

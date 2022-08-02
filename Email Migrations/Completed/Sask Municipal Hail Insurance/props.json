@@ -1,0 +1,9 @@
+{
+    "company_name":         "Sask Municipal Hail Insurance",
+    "domain_controller":    "kspad04.internal.ksphosting.com",
+    "domain_account":       "kspadmin",
+    "mail_server":          "kspemail04.internal.ksphosting.com",
+    "tenant_name":          "smhiregina.onmicrosoft.com",
+    "tenant_account":       "ksp365admin",
+    "company_domain":       "smhi.ca"
+}

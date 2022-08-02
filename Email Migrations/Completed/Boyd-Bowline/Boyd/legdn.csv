@@ -1,0 +1,10 @@
+#TYPE Selected.System.Management.Automation.PSCustomObject
+"SamAccountName","LegacyExchangeDN"
+"aboyd",
+"eboyd","/o=KSP Hosting/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=Ervin Boyd0fc"
+"lboyd","/o=KSP Hosting/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=Lorraine Boydc6f"
+"mmacleod","/o=KSP Hosting/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=Michelle McLeodbe0"
+"pheintz","/o=KSP Hosting/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=Peter Heintze9b"
+"rarkangelo-be","/o=KSP Hosting/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=Raia Arkangelo509"
+"rmorrell","/o=KSP Hosting/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=Roy Morrell8a1"
+"tboyd","/o=KSP Hosting/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=Tyler Boyd455"

@@ -1,0 +1,9 @@
+#TYPE Selected.System.Management.Automation.PSCustomObject
+"SamAccountName","proxyAddresses"
+"jbucknell","SMTP:Jason@willowinsurance.ca"
+"mharder","SMTP:moira@willowinsurance.ca"
+"rosefreeman","smtp:Carla@willowinsurance.ca smtp:Stacey@willowinsurance.ca smtp:info@willowinsurance.ca smtp:char@willowinsurance.ca smtp:katy@willowinsurance.ca SMTP:Rose@willowinsurance.ca X400:C=US;A= ;P=KSP Hosting;O=KSP?CORPORATE;S=Freeman;G=Rose;"
+"scottfreeman","smtp:scottfreeman@ksphosting.com SMTP:Scott@willowinsurance.ca X400:C=US;A= ;P=KSP Hosting;O=KSP?CORPORATE;S=Freeman;G=Scott;I=New;"
+"ttoth","SMTP:Tanisha@willowinsurance.ca"
+"willowibiz","SMTP:ibiz@willowinsurance.ca"
+"willowscanner","SMTP:Scanner@willowinsurance.ca"

@@ -1,0 +1,26 @@
+#TYPE Selected.System.Management.Automation.PSCustomObject
+"SamAccountName","ProxyAddresses"
+"365migboyd",
+"acruson","SMTP:ACruson@bowlinelogistics.com"
+"adminbc",
+"adminwainwright",
+"ahancock",
+"athompson","SMTP:AThompson@bowlinelogistics.com"
+"awittkopf",
+"bheidinger",
+"blerminiaux",
+"bowlineaccounting","SMTP:Accounting@bowlinelogistics.com"
+"bowlinefleet","SMTP:fleet@bowlinelogistics.com"
+"bowlineprinter","SMTP:BPrinter@bowlinelogistics.com"
+"bshulko","SMTP:barry@bowlinelogistics.com smtp:BShulko@bowlinelogistics.com"
+"cbushe","SMTP:cbushe@bowlinelogistics.com"
+"cskanderup","SMTP:CSkanderup@bowlinelogistics.com"
+"cvanbeek","SMTP:CVanBeek@bowlinelogistics.com"
+"gboersma",
+"ghoberg",
+"jimeson","SMTP:JImeson@bowlinelogistics.com"
+"jmccarville",
+"jstewart","SMTP:JStewart@bowlinelogistics.com"
+"ksorenson",
+"lberglund","SMTP:LBerglund@bowlinelogistics.com"
+"lboyd-bl","SMTP:LBoyd@bowlinelogistics.com"

@@ -1,0 +1,7 @@
+#TYPE Selected.System.Management.Automation.PSCustomObject
+"SamAccountName","proxyAddresses"
+"aknight","smtp:kailee@knightvisioninspections.com smtp:aknight@ksphosting.com SMTP:austen@knightvisioninspections.com X400:C=US;A= ;P=KSP Hosting;O=KSP?CORPORATE;S=Knight;G=Austen;"
+"cparenteau","SMTP:colton@knightvisioninspections.com smtp:cparenteau@ksphosting.com X400:C=US;A= ;P=KSP Hosting;O=KSP?CORPORATE;S=Parenteau;G=Colton;"
+"dmiller","SMTP:Donna@knightvisioninspections.com smtp:dmiller@ksphosting.com X400:C=US;A= ;P=KSP Hosting;O=KSP?CORPORATE;S=Miller;G=Donna;"
+"jknight","smtp:tech@knightvisioninspections.com smtp:steeve@knightvisioninspections.com smtp:tammy@knightvisioninspections.com smtp:brady@knightvisioninspections.com smtp:greg@knightvisioninspections.com smtp:info@knightvisioninspections.com smtp:kvi09@knightvisioninspections.com smtp:kvi08@knightvisioninspections.com smtp:kvi07@knightvisioninspections.com smtp:kvi05@knightvisioninspections.com smtp:kvi04@knightvisioninspections.com smtp:kvi06@knightvisioninspections.com smtp:kvi02@knightvisioninspections.com smtp:kvi01@knightvisioninspections.com smtp:kvi03@knightvisioninspections.com SMTP:jeff@knightvisioninspections.com smtp:jknight@ksphosting.com X400:C=US;A= ;P=KSP Hosting;O=KSP?CORPORATE;S=Knight;G=Jeff;"
+"kvscanner","smtp:kvscanner@ksphosting.com SMTP:scanner@knightvisioninspections.com X400:C=US;A= ;P=KSP Hosting;O=KSP?CORPORATE;S=Scanner;G=Knight;"

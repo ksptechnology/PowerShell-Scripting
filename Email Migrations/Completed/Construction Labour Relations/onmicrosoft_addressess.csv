@@ -1,0 +1,7 @@
+#TYPE Selected.System.Management.Automation.PSCustomObject
+"DisplayName","smtp","email_addresses"
+"Ksp Admin","SMTP:admin@clrsask.onmicrosoft.com","admin@clrsask.onmicrosoft.com"
+"Angelea Kolenz","smtp:akolenz@clrsask.onmicrosoft.com","akolenz@clrsask.onmicrosoft.com"
+"Brina Surkan","smtp:bsurkan@clrsask.onmicrosoft.com","bsurkan@clrsask.onmicrosoft.com"
+"Holly Goldstone","smtp:hgoldstone@clrsask.onmicrosoft.com","hgoldstone@clrsask.onmicrosoft.com"
+"Warren Douglas","smtp:wdouglas@clrsask.onmicrosoft.com","wdouglas@clrsask.onmicrosoft.com"

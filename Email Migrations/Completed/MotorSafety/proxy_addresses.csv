@@ -1,0 +1,14 @@
+#TYPE Selected.System.Management.Automation.PSCustomObject,
+SamAccountName,proxyAddresses
+bharmen,SMTP:bharmen@motorsafety.ca smtp:bcharbonneau@ksphosting.com X400:C=US;A= ;P=KSP Hosting;O=KSP?CORPORATE;S=Harmen;G=Bunty; x400:C=US;A= ;P=KSP Hosting;O=KSP?CORPORATE;S=Charbonneau;G=Bunty;
+c6cal,SMTP:c6cal@motorsafety.ca X400:c=US;a= ;p=KSP Hosting;o=KSP?CORPORATE;s=Calendar;g=C6;
+cparnitsky,SMTP:cparnitsky@motorsafety.ca X400:C=US;A= ;P=KSP Hosting;O=KSP?CORPORATE;S=Parnitsky;G=Chris;
+kbradshaw,SMTP:kbradshaw@motorsafety.ca smtp:kbradshaw@ksphosting.com X400:C=US;A= ;P=KSP Hosting;O=KSP?CORPORATE;S=Bradshaw;G=Kristy;
+kkostyniuk,SMTP:kkostyniuk@motorsafety.ca smtp:kkostyniuk@ksphosting.com X400:c=US;a= ;p=KSP Hosting;o=KSP?CORPORATE;s=Kostyniuk;g=Ken;
+kmilligan,SMTP:kmilligan@motorsafety.ca smtp:kmilligan@ksphosting.com X400:c=US;a= ;p=KSP Hosting;o=KSP?CORPORATE;s=Milligan;g=Kevin;
+mcobb,X400:C=US;A= ;P=KSP Hosting;O=KSP?CORPORATE;S=Cobb;G=Marty; SMTP:mcobb@motorsafety.ca smtp:mcobb@ksphosting.com
+mscalendar,smtp:mscalendar@ksphosting.com SMTP:mscalendar@motorsafety.ca X400:C=US;A= ;P=KSP Hosting;O=KSP?CORPORATE;S=Calendar;G=Motor Safety;
+MSinfoMailbox,SMTP:info@motorsafety.ca smtp:MSinfoMailbox@ksphosting.com X400:C=US;A= ;P=KSP Hosting;O=KSP?CORPORATE;S=Info Mailbox;G=Motor Safety;
+ncostron,SMTP:ncostron@motorsafety.ca smtp:ncostron@ksphosting.com X400:C=US;A= ;P=KSP Hosting;O=KSP?CORPORATE;S=Costron;G=Nathan;
+rbast,X400:C=US;A= ;P=KSP Hosting;O=KSP?CORPORATE;S=Bast;G=Ryan; SMTP:rbast@motorsafety.ca smtp:rbast@ksphosting.com
+safetyscanner,SMTP:scan@motorsafety.ca smtp:safetyscanner@ksphosting.com X400:C=US;A= ;P=KSP Hosting;O=KSP?CORPORATE;S=scanner;G=ricoh;

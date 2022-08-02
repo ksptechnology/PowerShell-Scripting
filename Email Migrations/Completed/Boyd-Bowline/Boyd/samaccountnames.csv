@@ -1,0 +1,26 @@
+#TYPE Selected.System.Management.Automation.PSCustomObject,
+email_addresses,samaccountname
+admin@boydbowline.onmicrosoft.com,
+athompson@boydbowline.onmicrosoft.com,
+bowlineprinter@boydbowline.onmicrosoft.com,
+bshulko@boydbowline.onmicrosoft.com,
+cbushe@boydbowline.onmicrosoft.com,
+cvanbeek@boydbowline.onmicrosoft.com,
+eboyd@boydbowline.onmicrosoft.com,eboyd
+jimeson@boydbowline.onmicrosoft.com,
+jstewart@boydbowline.onmicrosoft.com,
+lboyd@boydbowline.onmicrosoft.com,lboyd
+lboyd-bl@boydbowline.onmicrosoft.com,
+lmcneil@boydbowline.onmicrosoft.com,
+mgreen@boydbowline.onmicrosoft.com,
+mhermanson@boydbowline.onmicrosoft.com,
+mkunopaski@boydbowline.onmicrosoft.com,
+mmacleod-bl@boydbowline.onmicrosoft.com,
+mmcleod@boydbowline.onmicrosoft.com,mmacleod
+pheintz@boydbowline.onmicrosoft.com,pheintz
+rmorrell@boydbowline.onmicrosoft.com,rmorrell
+rmorrell-bl@boydbowline.onmicrosoft.com,
+smoffat@boydbowline.onmicrosoft.com,
+tbettcher@boydbowline.onmicrosoft.com,
+tboyd@boydbowline.onmicrosoft.com,tboyd
+tboyd-bl@boydbowline.onmicrosoft.com,

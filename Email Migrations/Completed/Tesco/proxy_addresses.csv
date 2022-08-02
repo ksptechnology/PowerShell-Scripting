@@ -1,0 +1,14 @@
+#TYPE Selected.System.Management.Automation.PSCustomObject,
+SamAccountName,proxyAddresses
+bpearson,SMTP:bpearson@tesco-group.com smtp:bpearson@ksphosting.com X400:C=US;A= ;P=KSP Hosting;O=KSP?CORPORATE;S=Pearson;G=Barb;
+btessier,X400:C=US;A= ;P=KSP Hosting;O=KSP?CORPORATE;S=Tessier;G=Barry; SMTP:btessier@tesco-group.com smtp:btessier@ksphosting.com
+cromanow,SMTP:cromanow@tesco-group.com X400:C=US;A= ;P=KSP Hosting;O=KSP?CORPORATE;S=Romanow;G=Calvin;
+dkorsberg,smtp:dkorsberg@tescoelectric.ca SMTP:dkorsberg@tesco-group.com X400:C=US;A= ;P=KSP Hosting;O=KSP?CORPORATE;S=Korsberg;G=Danny; smtp:dkorsberg@ksphosting.com
+ewagner,SMTP:ewagner@tesco-group.com smtp:ewagner@ksphosting.com X400:C=US;A= ;P=KSP Hosting;O=KSP?CORPORATE;S=Wagner;G=Eric;
+gkuderewko,SMTP:gkuderewko@tesco-group.com smtp:gkuderewko@ksphosting.com X400:C=US;A= ;P=KSP Hosting;O=KSP?CORPORATE;S=Kuderewko;G=George;
+jspringer,SMTP:jspringer@tesco-group.com smtp:jspringer@ksphosting.com X400:C=US;A= ;P=KSP Hosting;O=KSP?CORPORATE;S=Springer;G=Jeremy;
+jursan,smtp:info@tesco-group.com smtp:jursan@ksphosting.com SMTP:jursan@tesco-group.com X400:C=US;A= ;P=KSP Hosting;O=KSP?CORPORATE;S=Ursan;G=Jamie;
+scanner,SMTP:Scanner@tesco-group.com
+sdmelnick,X400:C=US;A= ;P=KSP Hosting;O=KSP?CORPORATE;S=Melnick;G=Sharon; SMTP:sdmelnick@tesco-group.com smtp:sdmelnick@ksphosting.com smtp:info@tescomechanical.ca smtp:info@tescoindustries.ca
+tderow,SMTP:tderow@tesco-group.com smtp:tderow@ksphosting.com X400:C=US;A= ;P=KSP Hosting;O=KSP?CORPORATE;S=Derow;G=Tyler;
+twirth,smtp:twirth@tescoelectric.ca X400:C=US;A= ;P=KSP Hosting;O=KSP?CORPORATE;S=Wirth;G=Trevor; SMTP:twirth@tesco-group.com smtp:twirth@ksphosting.com

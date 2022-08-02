@@ -1,0 +1,19 @@
+#TYPE Selected.System.Management.Automation.PSCustomObject,
+Name,EmailAddresses
+Spiceworks,smtp:spice@ksp.ca  SMTP:spiceworks@ksp.ca
+KSP iTunes 72579474,SMTP:itunes@ksp.ca 
+Resumes/Hiring,SMTP:resumeshiring@ksp.ca 
+KSP Notifications,smtp:kspnot@ksp.ca 
+Gold Backups,smtp:goldbackups@ksp.ca  SMTP:goldbackup@ksp.ca
+Platinum Backups,smtp:platinumbackups@ksp.ca  SMTP:platinumbackup@ksp.ca
+5. Bronze,SMTP:bronze@ksp.ca 
+MS Licenses,smtp:licensing@ksp.ca smtp:msactivation@ksp.ca SMTP:MSLicenses@ksp.ca 
+PBX,SMTP:pbx@ksp.ca
+Les.net,SMTP:les.net@ksp.ca
+DNS Admin,SMTP:dnsadmin@ksp.ca
+Accounting 73042079,SMTP:accounting@ksp.ca 
+S3 Support,SMTP:S3support@ksp.ca 
+PBX Backups,SMTP:pbxbackup@ksp.ca
+Silver Backups,SMTP:silverbackup@ksp.ca smtp:silverbackups@ksp.ca 
+KSP Technical Standards,SMTP:technicalstandards@ksp.ca 
+365 Auth,SMTP:365auth@ksp.ca 

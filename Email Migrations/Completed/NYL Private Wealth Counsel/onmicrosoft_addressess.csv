@@ -1,0 +1,4 @@
+#TYPE Selected.System.Management.Automation.PSCustomObject
+"DisplayName","smtp","email_addresses"
+"Kevin Pare","smtp:admin@NYLCounsel.onmicrosoft.com","admin@NYLCounsel.onmicrosoft.com"
+"Randy Linton","smtp:randy.linton@NYLCounsel.onmicrosoft.com","randy.linton@NYLCounsel.onmicrosoft.com"

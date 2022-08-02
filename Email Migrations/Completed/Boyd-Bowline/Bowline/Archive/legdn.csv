@@ -1,0 +1,26 @@
+#TYPE Selected.System.Management.Automation.PSCustomObject
+"SamAccountName","LegacyExchangeDN"
+"365migboyd",
+"acruson",
+"adminbc",
+"adminwainwright",
+"ahancock",
+"athompson","/o=KSP Hosting/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=Amy Thompsond60"
+"awittkopf",
+"bheidinger",
+"blerminiaux",
+"bowlineaccounting","/o=KSP Hosting/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=Bowline Accountingb8a"
+"bowlinefleet","/o=KSP Hosting/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=Bowline Fleet4ca"
+"bowlineprinter","/o=KSP Hosting/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=Bowline Printer679"
+"bshulko","/o=KSP Hosting/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=Barry Shulkocea"
+"cbushe","/o=KSP Hosting/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=Chelsey Bushea1b"
+"cskanderup","/o=KSP Hosting/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=Chris Skanderupaec"
+"cvanbeek","/o=KSP Hosting/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=Cindy Van Beekf7d"
+"gboersma",
+"ghoberg",
+"jimeson","/o=KSP Hosting/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=Jessica Imeson1d2"
+"jmccarville",
+"jstewart","/o=KSP Hosting/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=Justin Stewarta7f"
+"ksorenson",
+"lberglund","/o=KSP Hosting/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=Lynn Berglund694"
+"lboyd-bl","/o=KSP Hosting/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=Lorraine Boyded4"

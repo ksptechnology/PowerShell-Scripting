@@ -1,0 +1,26 @@
+#TYPE Selected.System.Management.Automation.PSCustomObject,,
+DisplayName,smtp,email_addresses
+Aymie Neudorf,smtp:a.neudorf@leipertfinancialsk.onmicrosoft.com,a.neudorf@leipertfinancialsk.onmicrosoft.com
+Accounting Support,smtp:acctsupport@leipertfinancialsk.onmicrosoft.com,acctsupport@leipertfinancialsk.onmicrosoft.com
+Brian Leipert,smtp:blleipert@leipertfinancialsk.onmicrosoft.com,blleipert@leipertfinancialsk.onmicrosoft.com
+Collette Janis,smtp:c.janis@leipertfinancialsk.onmicrosoft.com,c.janis@leipertfinancialsk.onmicrosoft.com
+Chad Lang,smtp:c.lang@leipertfinancialsk.onmicrosoft.com,c.lang@leipertfinancialsk.onmicrosoft.com
+David Jukes,smtp:d.jukes@leipertfinancialsk.onmicrosoft.com,d.jukes@leipertfinancialsk.onmicrosoft.com
+Evan Jones,smtp:e.jones@leipertfinancialsk.onmicrosoft.com,e.jones@leipertfinancialsk.onmicrosoft.com
+Jenny Hart,smtp:j.hart@leipertfinancialsk.onmicrosoft.com,j.hart@leipertfinancialsk.onmicrosoft.com
+Jonathan Werner,smtp:j.werner@leipertfinancialsk.onmicrosoft.com,j.werner@leipertfinancialsk.onmicrosoft.com
+Kristen Campbell,smtp:k.campbell@leipertfinancialsk.onmicrosoft.com,k.campbell@leipertfinancialsk.onmicrosoft.com
+Lyla Ali,smtp:l.ali@leipertfinancialsk.onmicrosoft.com,l.ali@leipertfinancialsk.onmicrosoft.com
+Leipert Accounting Mailbox,smtp:LeipertAccounting@leipertfinancialsk.onmicrosoft.com,LeipertAccounting@leipertfinancialsk.onmicrosoft.com
+Leipert Info Mailbox,smtp:LeipertInfo@leipertfinancialsk.onmicrosoft.com,LeipertInfo@leipertfinancialsk.onmicrosoft.com
+Leipert Reception,smtp:leipertreception@leipertfinancialsk.onmicrosoft.com,leipertreception@leipertfinancialsk.onmicrosoft.com
+Leipert Scanner,smtp:leipertscanner@leipertfinancialsk.onmicrosoft.com,leipertscanner@leipertfinancialsk.onmicrosoft.com
+"LFG Boardroom 200-1514 11th Ave, Regina",smtp:lfgboardroom@leipertfinancialsk.onmicrosoft.com,lfgboardroom@leipertfinancialsk.onmicrosoft.com
+Lynn Davies,smtp:lynn.davies@leipertfinancialsk.onmicrosoft.com,lynn.davies@leipertfinancialsk.onmicrosoft.com
+Plan Admin,smtp:planadmin@leipertfinancialsk.onmicrosoft.com,planadmin@leipertfinancialsk.onmicrosoft.com
+Rodney McLeod,smtp:r.mcleod@leipertfinancialsk.onmicrosoft.com,r.mcleod@leipertfinancialsk.onmicrosoft.com
+Roy Schamehorn,smtp:r.schamehorn@leipertfinancialsk.onmicrosoft.com,r.schamehorn@leipertfinancialsk.onmicrosoft.com
+Tamara Dundas,smtp:t.dundas@leipertfinancialsk.onmicrosoft.com,t.dundas@leipertfinancialsk.onmicrosoft.com
+Tim Leipert,smtp:t.leipert@leipertfinancialsk.onmicrosoft.com,t.leipert@leipertfinancialsk.onmicrosoft.com
+Tammy Leipert de Montas,smtp:Tleipertdemontas@leipertfinancialsk.onmicrosoft.com,Tleipertdemontas@leipertfinancialsk.onmicrosoft.com
+Wendy Effa,smtp:w.effa@leipertfinancialsk.onmicrosoft.com,w.effa@leipertfinancialsk.onmicrosoft.com

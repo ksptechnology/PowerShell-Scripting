@@ -1,0 +1,14 @@
+#TYPE Selected.System.Management.Automation.PSCustomObject,
+email_addresses,samaccountname
+bpearson@tescosk.onmicrosoft.com,bpearson
+btessier@tescosk.onmicrosoft.com,btessier
+cromanow@tescosk.onmicrosoft.com,cromanow
+dkorsberg@tescosk.onmicrosoft.com,dkorsberg
+ewagner@tescosk.onmicrosoft.com,ewagner
+gkuderewko@tescosk.onmicrosoft.com,gkuderewko
+jspringer@tescosk.onmicrosoft.com,jspringer
+jursan@tescosk.onmicrosoft.com,jursan
+scanner@tescosk.onmicrosoft.com,scanner
+sdmelnick@tescosk.onmicrosoft.com,sdmelnick
+tderow@tescosk.onmicrosoft.com,tderow
+twirth@tescosk.onmicrosoft.com,twirth

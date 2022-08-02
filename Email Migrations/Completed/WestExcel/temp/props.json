@@ -1,0 +1,10 @@
+{
+    "company_name":         "WestExcel",
+    "domain_controller":    "kspad04.internal.ksphosting.com",
+    "domain_account":       "kspadmin",
+    "mail_server":          "kspemail04.internal.ksphosting.com",
+    "tenant_name":          "westexcelautomation.onmicrosoft.com",
+    "tenant_account":       "ksp365admin",
+    "company_domain":       "westexcel.ca",
+    "public_folder_name":   "West Excel"
+}

@@ -1,0 +1,8 @@
+#TYPE Selected.System.Management.Automation.PSCustomObject
+"DisplayName","smtp","email_addresses"
+"Kevin Pare","SMTP:admin@knightvisionsk.onmicrosoft.com","admin@knightvisionsk.onmicrosoft.com"
+"Austen Knight","smtp:aknight@knightvisionsk.onmicrosoft.com","aknight@knightvisionsk.onmicrosoft.com"
+"Colton Parenteau","smtp:cparenteau@knightvisionsk.onmicrosoft.com","cparenteau@knightvisionsk.onmicrosoft.com"
+"Donna Miller","smtp:dmiller@knightvisionsk.onmicrosoft.com","dmiller@knightvisionsk.onmicrosoft.com"
+"Jeff Knight","smtp:jknight@knightvisionsk.onmicrosoft.com","jknight@knightvisionsk.onmicrosoft.com"
+"Knight Scanner","smtp:kvscanner@knightvisionsk.onmicrosoft.com","kvscanner@knightvisionsk.onmicrosoft.com"

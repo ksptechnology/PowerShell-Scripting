@@ -1,0 +1,19 @@
+#TYPE Selected.System.Management.Automation.PSCustomObject,,
+DisplayName,smtp,email_addresses
+Corin Florek,smtp:cflorek@kspca0.onmicrosoft.com,cflorek@kspca0.onmicrosoft.com
+Customer UPS,smtp:CustomerUPS@kspca0.onmicrosoft.com,CustomerUPS@kspca0.onmicrosoft.com
+Evan Ashdown,smtp:eashdown@kspca0.onmicrosoft.com,eashdown@kspca0.onmicrosoft.com
+Gary Pare,smtp:gpare@kspca0.onmicrosoft.com,gpare@kspca0.onmicrosoft.com
+Jamie Howlett,smtp:jhowlett@kspca0.onmicrosoft.com,jhowlett@kspca0.onmicrosoft.com
+Jamie Lees,smtp:jlees@kspca0.onmicrosoft.com,jlees@kspca0.onmicrosoft.com
+Judy Pare,smtp:jpare@kspca0.onmicrosoft.com,jpare@kspca0.onmicrosoft.com
+Julia Pare,smtp:juliapare@kspca0.onmicrosoft.com,juliapare@kspca0.onmicrosoft.com
+KSP Admin,smtp:kspadmin@kspca0.onmicrosoft.com,kspadmin@kspca0.onmicrosoft.com
+KSP Technology - Kevin Pare,smtp:kspkevinpare@kspca0.onmicrosoft.com,kspkevinpare@kspca0.onmicrosoft.com
+KSP Scanner,smtp:kspscanner@kspca0.onmicrosoft.com,kspscanner@kspca0.onmicrosoft.com
+KSP Virus,smtp:kspvirus@kspca0.onmicrosoft.com,kspvirus@kspca0.onmicrosoft.com
+Lilah Pare,smtp:lpare@kspca0.onmicrosoft.com,lpare@kspca0.onmicrosoft.com
+Matt Gordon,smtp:mgordon@kspca0.onmicrosoft.com,mgordon@kspca0.onmicrosoft.com
+Melanie Pare,smtp:mpare@kspca0.onmicrosoft.com,mpare@kspca0.onmicrosoft.com
+Office Admin,smtp:office.admin@kspca0.onmicrosoft.com,office.admin@kspca0.onmicrosoft.com
+Kevin Pare,smtp:parek@kspca0.onmicrosoft.com,parek@kspca0.onmicrosoft.com

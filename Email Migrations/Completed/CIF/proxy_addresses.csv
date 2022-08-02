@@ -1,0 +1,8 @@
+#TYPE Selected.System.Management.Automation.PSCustomObject
+"SamAccountName","proxyAddresses"
+"asawatzky","smtp:asawatzky@ksphosting.com SMTP:ASawatzky@cifsask.org"
+"atremka","smtp:atremka@ksphosting.com SMTP:admin@cifsask.org smtp:ATremka@cifsask.org"
+"cifscanner","SMTP:scanner@cifsask.org"
+"rnewton","smtp:rnewton@ksphosting.com SMTP:RNewton@cifsask.org"
+"cifsaskwellbeing","SMTP:saskwellbeing@cifsask.org"
+"tmann","SMTP:TMann@cifsask.org"

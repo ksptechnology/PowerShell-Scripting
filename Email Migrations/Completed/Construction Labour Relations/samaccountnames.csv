@@ -1,0 +1,13 @@
+#TYPE Selected.System.Management.Automation.PSCustomObject,
+email_addresses,samaccountname
+akolenz@clrsask.onmicrosoft.com,akolenz
+bsurkan@clrsask.onmicrosoft.com,bsurkan
+clrscodctraining@clrsask.onmicrosoft.com,clrsinfo
+clrsinfo@clrsask.onmicrosoft.com,clrsstrikeinfo
+clrsstrikeinfo@clrsask.onmicrosoft.com,codcinclusionmanager
+codcinclusionmanager@clrsask.onmicrosoft.com,codcinfo
+codcinfo@clrsask.onmicrosoft.com,codcprocare
+codcprocare@clrsask.onmicrosoft.com,codctraining
+hgoldstone@clrsask.onmicrosoft.com,hgoldstone
+nclraregistration@clrsask.onmicrosoft.com,nclraregistration
+wdouglas@clrsask.onmicrosoft.com,wdouglas

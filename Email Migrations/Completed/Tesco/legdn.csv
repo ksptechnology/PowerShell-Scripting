@@ -1,0 +1,14 @@
+#TYPE Selected.System.Management.Automation.PSCustomObject
+"SamAccountName","legacyExchangeDN"
+"bpearson","/o=KSP Hosting/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=Barb Pearsonea4"
+"btessier","/O=KSP Hosting/OU=KSP_CORPORATE/cn=Recipients/cn=btessier"
+"cromanow","/o=KSP Hosting/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=Calvin Romanowbcf"
+"dkorsberg","/O=KSP Hosting/OU=KSP_CORPORATE/cn=Recipients/cn=dkorsberg"
+"ewagner","/o=KSP Hosting/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=Eric Wagner15b"
+"gkuderewko","/o=KSP Hosting/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=George Kuderewkoe38"
+"jspringer","/o=KSP Hosting/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=Jeremy Springer6ba"
+"jursan","/o=KSP Hosting/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=Jamie Ursand33"
+"scanner",
+"sdmelnick","/O=KSP Hosting/OU=KSP_CORPORATE/cn=Recipients/cn=sdmelnick"
+"tderow","/o=KSP Hosting/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=Tyler Derowab8"
+"twirth","/O=KSP Hosting/OU=KSP_CORPORATE/cn=Recipients/cn=twirth"

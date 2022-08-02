@@ -1,0 +1,10 @@
+{
+    "company_name":         "Magnorum Management Group",
+    "domain_controller":    "kspad04.internal.ksphosting.com",
+    "domain_account":       "kspadmin",
+    "mail_server":          "kspemail04.internal.ksphosting.com",
+    "tenant_name":          "magnorummanagementgroup.onmicrosoft.com",
+    "tenant_account":       "ksp365admin",
+    "company_domain":       "magnorum.ca",
+    "public_folder_name":   "Morsky Management Group Ltd."
+}
